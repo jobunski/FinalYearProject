@@ -3,6 +3,7 @@
 import RPi.GPIO as GPIO
 from mfrc522 import SimpleMFRC522
 
+#Library in raspberry pijhnj
 reader = SimpleMFRC522()
 
 try:
