@@ -1,0 +1,2 @@
+Establishes connection with database using the Slim Php Framework.
+Used as backend to Android App.
